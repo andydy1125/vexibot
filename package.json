@@ -1,5 +1,6 @@
 {
 	"name": "vexibot",
+	"token": "NjIyNjI1ODY3NjQxNjUxMjEw.XX2n0A.cOeX4UA8VrItmF0zgl2whP7u614",
 	"version": "1.0.0",
 	"description": "Provides services related to the VEX Robotics Competition, primarily providing statistics related to the competition.",
 	"keywords": [
